@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/red-hat/eShopOnWeb/_apis/build/status%2Fhilkisahil.js-e2e-express-server?branchName=main)](https://dev.azure.com/red-hat/eShopOnWeb/_build/latest?definitionId=2&branchName=main)
 ---
 page_type: sample
 languages:
